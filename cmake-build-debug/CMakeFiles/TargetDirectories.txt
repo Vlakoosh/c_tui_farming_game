@@ -1,0 +1,3 @@
+C:/Users/szymi/Documents/programming/c/c-tui-farming-game/cmake-build-debug/CMakeFiles/c_tui_farming_game.dir
+C:/Users/szymi/Documents/programming/c/c-tui-farming-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/szymi/Documents/programming/c/c-tui-farming-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
